@@ -4,6 +4,7 @@
     "keywords": [
         "qcloud", "cos", "php"
     ],
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
